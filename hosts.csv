@@ -1,0 +1,6 @@
+﻿name,hostname,groups
+CSR1,10.0.0.1,routers
+SW1,10.10.10.1,switches
+CSR2,10.10.10.2,routers
+Core,10.10.250.2,switches
+Core2,10.10.250.3,switches2
